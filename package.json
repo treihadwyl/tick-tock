@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "animation-frame": "^0.1.6",
-    "uberproto": "^1.1.1"
+    "uberproto": "^1.1.1",
+    "lodash-node": "^2.4.1"
   }
 }

@@ -17,6 +17,7 @@ var gulp = require( 'gulp' ),
 
 
 gulp.task( 'test', function() {
+    process.env = 'DEBUG';
     return gulp
         .src( [
             'spec/**/*.js',

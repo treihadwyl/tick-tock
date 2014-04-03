@@ -1,7 +1,6 @@
 
 var should = require( 'chai' ).should();
 
-
 suite.skip( 'testing mocha and chai', function() {
 
     var foo = 'a string';
