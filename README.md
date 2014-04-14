@@ -24,7 +24,7 @@ var tick = raf
 
 `Tick-tock` is implemented with a chainable API so registering a new timer will return an instance of itself so that it can be started immediately, which is usually what you want to do.
 
-This instance can be kept as used later on.
+This instance can be kept and used later on.
 
 ```
 tick.stop();
